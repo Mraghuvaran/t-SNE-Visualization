@@ -28,9 +28,9 @@ In this repo you'll come across visualizing t-SNE components in diffent approach
 1. Forestfires.csv ## Dateset used 
 2. Approach-1.ipynb 
 
-# Approaach -1 
+# Approach -1 
 
-In this, by barely doung basic preprocessing of the target column we are making two components from all the feature's. 
+In this, by barely doing basic pre-processing of the target column we are making two components from all the feature's. 
 
 Steps: 
 - We'll be importing the required paackages. 
@@ -39,7 +39,7 @@ Steps:
 - Plotting the scatter plot in the 2-D SPACE.
 - Gradient descent in the t-SNE & visualization. 
 
-# Approaach -2
+# Approach -2
 
 In this, by preprocessing the data like feature-scaling & One-hot encoding. 
 
@@ -51,7 +51,7 @@ Steps:
 - Creating clusters without the target feature. 
 - Creating t-SNE components in 1-D, 2-D, 3-D using plotly package. 
 
-# Approaach -3 
+# Approach -3 
 
 Combination of both. 
 In this, we are doing both the feature scaling & one-hot encoding the data by considering the target column. 
